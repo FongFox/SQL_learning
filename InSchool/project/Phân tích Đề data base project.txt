@@ -1,0 +1,14 @@
+Thực thể chính:
++ Nước giải khát (mã, loại, nhãn hiệu, đơn vị tính, giá bán, tồn hiện hành, mức dự trữ, số lượng hiện hành).
++ Hóa đơn (số hóa đơn, ngày hóa đơn, loại nước, số lượng, thành tiền, tổng số tiền phải trả).
++ Khách hàng (tên, địa chỉ, số điện thoại, mã số thuế).
++ Nhà cung cấp (mã, tên, địa chỉ, điện thoại, giá).
++ Phiếu đặt hàng (số phiếu, ngày lập, các loại nước, số lượng đặt, số lượng đã nhận).
++ Phiếu nhập hàng (số phiếu, ngày nhập, số tiền phải trả).
+
+
+
+Thuộc tính khóa:
++ Nước giải khát (mã)
++ Nhà cung cấp (mã, điện thoại)
++ 
